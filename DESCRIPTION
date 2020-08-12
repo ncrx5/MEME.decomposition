@@ -1,0 +1,11 @@
+Package: MEME
+Type: Package
+Title: MEME_decomposition
+Version: 0.1.0
+Author: Nicolas Roux
+Maintainer: Nicolas Roux <nicolas.roux@boku.ac.at>
+Description: The MEME is an index decomposition method, which is not biased when studying mix (or structure) effects. This package is written for the example of a given environmental impact generated through the output of differente sectors in several years. The decomposition reveals the following drivers: the sector mix effect, the overall activity effect, and the environmental intensity effect.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: FALSE
+Imports: dplyr, ggplot2, magrittr
